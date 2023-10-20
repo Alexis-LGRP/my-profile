@@ -1,0 +1,48 @@
+body {
+	background: linear-gradient(gray, green);
+	text-align: center;
+	color: rgb(30, 30, 30);
+
+}
+
+h1 {
+	color: #FFFFFF;
+	font-family: 'Press Start 2P';
+	font-weight: 800;
+	letter-spacing: 10px;
+	font-size: 32px;
+	text-align: center;
+	text-transform: uppercase;
+
+}
+
+h2 {
+	color: #5800FF;
+	font-family: 'Press Start 2P';
+	text-align: center;
+	text-transform: uppercase;
+}
+
+p {
+	color: #16FF00;
+	font-family: 'Pixelify Sans';
+	text-align: center;
+	text-transform: uppercase;
+}
+
+a {
+	color: #F7EC09;
+	font-family: 'Pixelify Sans';
+	text-align: center;
+	text-transform: uppercase;
+}
+
+.circle {
+ border-radius: 50%;
+ height: 100px;
+ width: 100px;
+ overflow: hidden;
+ justify-content: center;
+ align-items: center;
+
+}
